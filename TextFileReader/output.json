@@ -1,0 +1,26 @@
+[
+  {
+    "numOne": 1.0,
+    "numTwo": 2.0,
+    "operator": "+",
+    "result": 3.0
+  },
+  {
+    "numOne": 10.0,
+    "numTwo": 4.0,
+    "operator": "/",
+    "result": 2.5
+  },
+  {
+    "numOne": 5.0,
+    "numTwo": 3.0,
+    "operator": "*",
+    "result": 15.0
+  },
+  {
+    "numOne": 7.0,
+    "numTwo": 2.0,
+    "operator": "-",
+    "result": 5.0
+  }
+]
